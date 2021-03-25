@@ -1,0 +1,24 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "Cart functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamshiPaka/ZM-ShoppingCart.git"
+  },
+  "keywords": [
+    "shopping",
+    "cart",
+    "product"
+  ],
+  "author": "Vamshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VamshiPaka/ZM-ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/VamshiPaka/ZM-ShoppingCart#readme"
+}
